@@ -1,0 +1,10 @@
+{
+  "name": "test-risky-project",
+  "version": "1.0.0",
+  "dependencies": {
+    "expres": "^1.0.0",
+    "reactt": "^1.0.0",
+    "acme-private-billing": "^1.0.0",
+    "mongoose": "^8.0.0"
+  }
+}
